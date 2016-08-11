@@ -1,0 +1,6 @@
+* Hacer que la rana muestre un cartel con "zzzzzzz" de dormida, y este dormida al no moverla en X segundos (8 o 10 seg estan bien).
+* mostrar bang bang al disparar (un div llamado bang bang).
+* mostrar el enemigo muerto cuando un disparo le impacta, durante unos segundos.
+* poner musica de fondo (100% libre o creacion propia, con programa free)
+* poner musika kon opcion de desaktivar (hacerlo por CSS o algo parecido si es posible)
+* poner musica y fx.

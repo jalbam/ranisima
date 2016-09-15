@@ -10,6 +10,9 @@ Version: 0.96a
 You can donate at http://sourceforge.net/donate/index.php?group_id=173557
 
 
+![ScreenShot](screenshot.gif)
+
+
 Description
 
 Open source game that was written totally in DHTML (HTML, CSS and JavaScript) and was inspired by the Space invaders classic although uses infantile graphics that will be loved by the youngest children.

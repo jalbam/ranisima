@@ -13,7 +13,7 @@ You can donate at http://sourceforge.net/donate/index.php?group_id=173557
 ![ScreenShot](screenshot.gif)
 
 
-Description
+## Description
 
 Open source game that was written totally in DHTML (HTML, CSS and JavaScript) and was inspired by the Space invaders classic although uses infantile graphics that will be loved by the youngest children.
 
@@ -27,5 +27,12 @@ You can find other modified and adapted versions of this game on the Internet, i
 
 This game has been tested under BeOS, Linux, NetBSD, OpenBSD, FreeBSD, Windows, Mac OS X and others.
 
+Play online in English: http://ranisima.tuxfamily.org/ranisima_english/
+
+Play online in English (mirror): http://www.dhtmlgames.com/ranisima/ranisima_english/
+
+Play online in Spanish: http://ranisima.tuxfamily.org/ranisima_spanish/
+
+Play online in Spanish (mirror): http://www.dhtmlgames.com/ranisima/ranisima_spanish/
 
 Official web site: http://ranisima.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/ranisima/).
